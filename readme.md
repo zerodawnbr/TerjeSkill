@@ -329,3 +329,11 @@ Essas restrições dificultam significativamente o uso de mortes combinadas entr
 | `Skills.CannibalDevourerHealthModifier` | `1` | Define o multiplicador de restauração de vida aplicado ao consumir carne humana. |
 | `Skills.CannibalDevourerEnergyPerLevel` | `0.05` | Define o modificador adicional de energia ganho por nível da habilidade. |
 | `Skills.CannibalDevourerWaterPerLevel` | `0.05` | Define o modificador adicional de hidratação ganho por nível da habilidade. |
+
+---
+
+## Contato
+Quer usar no seu servidor?  
+Entre em contato pelo **Direct no Discord** ou abra um **ticket**.  
+
+[Visite nosso Discord](https://discord.gg/R4eNUDPArW)
