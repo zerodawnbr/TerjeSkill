@@ -16,6 +16,7 @@
 ### 1. ➕ Iron Stomach — Estômago de Ferro
 
 > Reduz a chance de contrair a **Doença do Cérebro (Kuru)** ao ingerir carne humana. No nível máximo, o canibal desenvolve **imunidade total**.
+> Aqui o personagem tem 100% de chance de repelir o Kuru.
 
 **📈 Progressão — Níveis 1 a 5**
 
@@ -23,15 +24,32 @@
 
 **🛡️ Resistência à Infecção**
 
+### Dicas
+
+A habilidade Iron Stomach garante 100% de imunidade exclusivamente contra o Kuru (Doença do Cérebro). Ela não transforma o estômago do personagem em um buraco negro de espaço infinito, nem o blinda contra outras bactérias.  
+
+Se o ícone de estômago está aparecendo (ou o personagem está gemendo de dor) após comer apenas duas carnes, você está esbarrando em um destes dois problemas:
+
+1. Salmonella (Mãos Sujas ou Carne Crua)Quando você esquarteja um sobrevivente para farmar XP com a habilidade The Butcher, as mãos do seu personagem ficam sujas de sangue.  Se você comer a carne com as mãos ensanguentadas (sem luvas), ou se a carne estiver crua, você contrai Salmonella instantaneamente.
+  
+   A Salmonella causa dores severas no estômago, desidratação e vômito. O Iron Stomach bloqueia a loucura (Kuru), mas não bloqueia a intoxicação alimentar da Salmonella.
+   
+4. Limite de Volume Físico (Estômago Cheio)Na engine do DayZ, todo alimento e líquido possui um valor de "Volume". O estômago do jogador tem um limite físico de capacidade.Bifes de carne (especialmente carne humana) são pesados e ocupam muito espaço no estômago.
+
+   Se você "spammar" a ação de comer e engolir dois bifes inteiros de uma vez, o volume do estômago atinge o limite máximo rapidamente.A engine exibe o ícone de estômago para avisar que ele está cheio. Se você der mais uma mordida, o personagem vomita tudo por excesso de comida.Como resolver isso na Gameplay:Use Luvas: Nunca esquarteje e coma sem estar usando luvas (ou lave as mãos com água imediatamente após fatiar o corpo).
+
+   Asse a Carne: Para evitar Salmonella, a carne humana precisa ser assada (a menos que você crie um script adicional no mod para imunizar o jogador contra Salmonella também).Coma com Pausas: Coma apenas um bife. Espere as setinhas do ícone de comida (maçã) pararem de subir e o estômago esvaziar a carga. Só depois coma o segundo.
+
 ---
 
 ### 2. 🧛 Taste of Blood — Gosto de Sangue
 
 > Concede uma taxa de **regeneração de vida** imediatamente após consumir carne humana. O sangue fresco cura as feridas.
+> No nível 5, o modificador de cura bate 5.0 (500%). O personagem vai regenerar vida quase que instantaneamente após comer.
 
 **📈 Progressão — Níveis 1 a 5**
 
-`0.5` ➜ `0.6` ➜ `0.7` ➜ `0.8` ➜ `0.9`
+`0.5` ➜ `1.0` ➜ `2.0` ➜ `3.5` ➜ `5.0`
 
 **❤️ Modificador de Cura**
 
@@ -40,10 +58,11 @@
 ### 3. 💀 Bloodlust — Sede de Sangue
 
 > O desespero traz a fúria. Aumenta drasticamente o **dano em combates corpo a corpo** quando sua vida está criticamente baixa.
+> No nível 5, o personagem ganha +300% de dano extra corpo-a-corpo quando estiver quase morrendo. Um soco derruba um urso.
 
 **📈 Progressão — Níveis 1 a 5**
 
-`+25%` ➜ `+27%` ➜ `+29%` ➜ `+31%` ➜ `+33%`
+`+50%` ➜ `+100%` ➜ `+150%` ➜ `+200%` ➜ `+300%`
 
 **⚔️ Dano Bruto Adicional**
 
@@ -52,10 +71,11 @@
 ### 4. 🧟 Predatory Instinct — Instinto Predador
 
 > Caçadores não se cansam facilmente. Reduz o consumo de **estamina** para todas as ações de movimentação.
+> No Nível 5, o jogador corre o mapa inteiro sem gastar um pingo de fôlego.
 
 **📈 Progressão — Níveis 1 a 5**
 
-`10%` ➜ `11%` ➜ `12%` ➜ `13%` ➜ `14%`
+`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
 
 **🏃 Redução no Custo de Fôlego**
 
@@ -64,10 +84,11 @@
 ### 5. 👃 Scent of Prey — O Faro Assassino
 
 > O verdadeiro predador sente o cheiro da morte. Destaca visualmente **cadáveres frescos** nas proximidades através de fumaça e moscas.
+> O nível 5 agora enxerga a fumaça de cadáveres a impressionantes 500 metros de distância (meio quilômetro).
 
 **📈 Progressão — Níveis 1 a 5**
 
-`25m` ➜ `35m` ➜ `45m` ➜ `55m` ➜ `65m`
+`50m` ➜ `100m` ➜ `200m` ➜ `350m` ➜ `500m`
 
 **👁️ Distância de Detecção**
 
@@ -76,10 +97,11 @@
 ### 6. 🔪 The Butcher — O Açougueiro
 
 > Maestria na lâmina. Garante que você retire **mais carne** ao esfolar cadáveres de sobreviventes e reduz severamente o desgaste da faca durante o processo.
+> No nível 5, ele arranca 5.0 (+500%) de carne de um único corpo. Um cadáver vai lotar a mochila dele de bife.
 
 **📈 Progressão — Níveis 1 a 5**
 
-`+25%` ➜ `+30%` ➜ `+35%` ➜ `+40%` ➜ `+45%`
+`+50%` ➜ `+100%` ➜ `+200%` ➜ `+350%` ➜ `+500%`
 
 **🥩 Rendimento de Carne**
 
@@ -88,10 +110,11 @@
 ### 7. 🥩 Devourer — O Devorador
 
 > O corpo se adapta à nova dieta. Multiplica drasticamente os valores de **Nutrição e Hidratação** extraídos de cada pedaço de carne humana.
+> Bate incríveis 10.0 no nível 5. Uma única mordida em um bife humano vai encher a barra de comida e água dele até o talo!
 
 **📈 Progressão — Níveis 1 a 5**
 
-`1.50x` ➜ `1.55x` ➜ `1.60x` ➜ `1.65x` ➜ `1.70x`
+`2.0x` ➜ `4.0x` ➜ `6.0x` ➜ `8.0x` ➜ `10.0x`
 
 **🍖 Status Nutricional**
 
@@ -100,10 +123,11 @@
 ### 8. ⚡ Adrenaline Rush — Pico de Adrenalina
 
 > O frenesi da caça. Garante uma explosão imediata de **velocidade de movimento e recuperação de estamina** logo após abater um sobrevivente.
+> +100% de velocidade de movimento (o dobro da velocidade normal de um humano). Ele vai parecer o Flash.
 
 **📈 Progressão — Níveis 1 a 5**
 
-`10%` ➜ `12%` ➜ `14%` ➜ `16%` ➜ `18%`
+`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
 
 **⚡ Bônus de Velocidade**
 
@@ -112,10 +136,11 @@
 ### 9. 🤕 Pain Resistance — Resistência à Dor
 
 > A loucura anestesia o corpo. Reduz consideravelmente o **dano de choque**, evitando a inconsciência durante combates e ataques inimigos.
+> No nível 5, ele tem 100% de resistência a dano de choque. O jogador nunca mais vai cair inconsciente por tomar tiro ou porrada.
 
 **📈 Progressão — Níveis 1 a 5**
 
-`25%` ➜ `27%` ➜ `29%` ➜ `31%` ➜ `33%`
+`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
 
 **🛡️ Redução de Choque**
 
@@ -127,7 +152,7 @@
 
 **📈 Progressão — Níveis 1 a 5**
 
-`25%` ➜ `27%` ➜ `29%` ➜ `31%` ➜ `33%`
+`50%` ➜ `100%` ➜ `150%` ➜ `200%` ➜ `300%`
 
 **💀 Poder Adicional na Habilidade**
 
