@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
+<p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Zero Dawn Banner"> </p>
 
-![Banner do Mod](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
+![Mod Banner](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
 
 
 # 💀 Skill Tree: CANNIBAL
@@ -16,6 +16,7 @@
 ### 1. ➕ Iron Stomach
 
 > Reduces the chance of contracting **Brain Disease (Kuru)** when eating human flesh. At max level, the cannibal develops **total immunity**.
+> Here the character has a 100% chance to repel Kuru.
 
 **📈 Progression — Levels 1 to 5**
 
@@ -23,15 +24,35 @@
 
 **🛡️ Infection Resistance**
 
+### Tips
+
+The Iron Stomach skill grants 100% immunity exclusively against Kuru (Brain Disease). It does not turn the character's stomach into an infinite black hole, nor does it shield against other bacteria.  
+
+If the stomach icon appears (or the character groans in pain) after eating just two pieces of meat, you are running into one of these two problems:
+
+1. **Salmonella (Dirty Hands or Raw Meat):** When you butcher a survivor to farm XP with The Butcher skill, your character's hands get covered in blood. If you eat the meat with bloody hands (without gloves), or if the meat is raw, you instantly contract Salmonella.
+  
+   Salmonella causes severe stomach pain, dehydration, and vomiting. Iron Stomach blocks madness (Kuru), but it does not block Salmonella food poisoning.
+   
+2. **Physical Volume Limit (Full Stomach):** In the DayZ engine, every food and liquid has a "Volume" value. The player's stomach has a physical capacity limit. Meat steaks (especially human meat) are heavy and take up a lot of space in the stomach.
+
+   If you spam the eat action and swallow two whole steaks at once, the stomach volume reaches its maximum limit quickly. The engine displays the stomach icon to warn you that it is full. If you take one more bite, the character will throw up everything due to overeating.
+
+**How to solve this in Gameplay:**
+* **Use Gloves:** Never butcher and eat without wearing gloves (or wash your hands with water immediately after slicing the body).
+* **Roast the Meat:** To avoid Salmonella, human meat must be roasted (unless you create an additional script in the mod to immunize the player against Salmonella as well).
+* **Eat with Pauses:** Eat only one steak. Wait for the food icon (apple) arrows to stop going up and the stomach to empty its load. Only then eat the second one.
+
 ---
 
 ### 2. 🧛 Taste of Blood
 
 > Grants a **health regeneration** rate immediately after consuming human flesh. Fresh blood heals your wounds.
+> At level 5, the healing modifier hits 5.0 (500%). The character will regenerate health almost instantly after eating.
 
 **📈 Progression — Levels 1 to 5**
 
-`0.5` ➜ `0.6` ➜ `0.7` ➜ `0.8` ➜ `0.9`
+`0.5` ➜ `1.0` ➜ `2.0` ➜ `3.5` ➜ `5.0`
 
 **❤️ Healing Modifier**
 
@@ -40,10 +61,11 @@
 ### 3. 💀 Bloodlust
 
 > Desperation brings fury. Drastically increases **melee combat damage** when your health is critically low.
+> At level 5, the character gains +300% extra melee damage when near death. A single punch can drop a bear.
 
 **📈 Progression — Levels 1 to 5**
 
-`+25%` ➜ `+27%` ➜ `+29%` ➜ `+31%` ➜ `+33%`
+`+50%` ➜ `+100%` ➜ `+150%` ➜ `+200%` ➜ `+300%`
 
 **⚔️ Additional Raw Damage**
 
@@ -52,10 +74,11 @@
 ### 4. 🧟 Predatory Instinct
 
 > Hunters do not tire easily. Reduces **stamina** consumption for all movement actions.
+> At level 5, the player can sprint across the entire map without spending a single drop of stamina.
 
 **📈 Progression — Levels 1 to 5**
 
-`10%` ➜ `11%` ➜ `12%` ➜ `13%` ➜ `14%`
+`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
 
 **🏃 Stamina Cost Reduction**
 
@@ -64,10 +87,11 @@
 ### 5. 👃 Scent of Prey
 
 > A true predator smells death. Visually highlights nearby **fresh corpses** through smoke and flies.
+> Level 5 now sees corpse smoke from an impressive 500 meters away (half a kilometer).
 
 **📈 Progression — Levels 1 to 5**
 
-`25m` ➜ `35m` ➜ `45m` ➜ `55m` ➜ `65m`
+`50m` ➜ `100m` ➜ `200m` ➜ `350m` ➜ `500m`
 
 **👁️ Detection Distance**
 
@@ -76,10 +100,11 @@
 ### 6. 🔪 The Butcher
 
 > Mastery of the blade. Ensures you harvest **more meat** when skinning survivor corpses and severely reduces knife degradation during the process.
+> At level 5, you harvest 5.0 (+500%) meat from a single body. One corpse will fill your backpack with steaks.
 
 **📈 Progression — Levels 1 to 5**
 
-`+25%` ➜ `+30%` ➜ `+35%` ➜ `+40%` ➜ `+45%`
+`+50%` ➜ `+100%` ➜ `+200%` ➜ `+350%` ➜ `+500%`
 
 **🥩 Meat Yield**
 
@@ -88,10 +113,11 @@
 ### 7. 🥩 Devourer
 
 > The body adapts to the new diet. Drastically multiplies the **Nutrition and Hydration** values extracted from each piece of human meat.
+> Hits an incredible 10.0 at level 5. A single bite of a human steak will fill your food and water bars to the max!
 
 **📈 Progression — Levels 1 to 5**
 
-`1.50x` ➜ `1.55x` ➜ `1.60x` ➜ `1.65x` ➜ `1.70x`
+`2.0x` ➜ `4.0x` ➜ `6.0x` ➜ `8.0x` ➜ `10.0x`
 
 **🍖 Nutritional Status**
 
@@ -100,10 +126,11 @@
 ### 8. ⚡ Adrenaline Rush
 
 > The frenzy of the hunt. Grants an immediate burst of **movement speed and stamina recovery** right after taking down a survivor.
+> +100% movement speed (double the normal human speed). You will look like the Flash.
 
 **📈 Progression — Levels 1 to 5**
 
-`10%` ➜ `12%` ➜ `14%` ➜ `16%` ➜ `18%`
+`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
 
 **⚡ Speed Bonus**
 
@@ -112,10 +139,11 @@
 ### 9. 🤕 Pain Resistance
 
 > Madness numbs the body. Considerably reduces **shock damage**, preventing unconsciousness during combat and enemy attacks.
+> At level 5, you have 100% resistance to shock damage. The player will never fall unconscious again from taking a bullet or a punch.
 
 **📈 Progression — Levels 1 to 5**
 
-`25%` ➜ `27%` ➜ `29%` ➜ `31%` ➜ `33%`
+`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
 
 **🛡️ Shock Reduction**
 
@@ -127,7 +155,7 @@
 
 **📈 Progression — Levels 1 to 5**
 
-`25%` ➜ `27%` ➜ `29%` ➜ `31%` ➜ `33%`
+`50%` ➜ `100%` ➜ `150%` ➜ `200%` ➜ `300%`
 
 **💀 Additional Skill Power**
 
@@ -150,7 +178,7 @@ There are **4 exact ways to earn XP** with the current settings of the **CANNIBA
 
 > **The highest source of XP.**
 
-Getting your hands dirty yields **50 XP per kill**. However, the engine has some strict locks to prevent XP *farming* among friends.
+Getting your hands dirty yields **50 XP per kill**. However, the engine has strict locks to prevent XP *farming* among friends.
 
 ### 🎯 Headshot Bonus
 
@@ -249,10 +277,10 @@ The XP amount is defined by the variable:
 
 The fastest way to level up this tree is to combine all XP sources:
 
-1. 🎯 **Hunt players from a distance**
+1. 🎯 **Hunt players from a long distance**
 2. 🔫 **Secure the Headshot** → `75 XP`
 3. 🔪 **Go to the body and butcher it** → `25 XP`
-4. 🥩 **Consume the generated meat** → `10 XP per piece`
+4. 🥩 **Consume the harvested meat** → `10 XP per piece`
 5. 💀 **Eat directly from the corpse** → `5 XP per bite`
 
 ---
@@ -334,6 +362,6 @@ These restrictions significantly hinder the use of arranged kills between player
 
 ## Contact
 Want to use it on your server?  
-Get in touch via **Discord Direct** or open a **ticket**.  
+Contact us via **Direct Message on Discord** or open a **ticket**.  
 
 [Visit our Discord](https://discord.gg/R4eNUDPArW)
