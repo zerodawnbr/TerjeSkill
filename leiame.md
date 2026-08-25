@@ -1,15 +1,13 @@
 <p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
 
-![Banner do Mod](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
-
-
 # 💀 Árvore de Habilidades: CANNIBAL (Canibal)
 
 > *Sobreviva consumindo sua própria espécie.*
 >
 > O caminho sombrio da carne humana traz loucura, mas recompensa os predadores com poder inigualável e instintos brutais.
 
----
+![Banner do Mod](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
+
 
 ## 🩸 PERKS — HABILIDADES
 
