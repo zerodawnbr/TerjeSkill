@@ -8,7 +8,8 @@
 
 ![Banner do Mod](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
 
-
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/skillscannibal.png" alt="Skills Cannibal">
+  
 ## 🩸 PERKS — HABILIDADES
 
 ### 1. ➕ Iron Stomach — Estômago de Ferro
