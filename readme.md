@@ -1,15 +1,13 @@
 <p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Zero Dawn Banner"> </p>
 
-![Mod Banner](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
-
-
 # 💀 Skill Tree: CANNIBAL
 
 > *Survive by consuming your own kind.*
 >
 > The dark path of human flesh brings madness, but rewards predators with unmatched power and brutal instincts.
 
----
+![Mod Banner](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
+
 
 ## 🩸 PERKS
 
