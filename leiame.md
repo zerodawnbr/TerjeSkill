@@ -82,7 +82,7 @@ Se o ícone de estômago está aparecendo (ou o personagem está gemendo de dor)
 
 ### 5. 👃 Scent of Prey — O Faro Assassino
 
-> O verdadeiro predador sente o cheiro da morte. Destaca visualmente **cadáveres frescos** nas proximidades através de fumaça e moscas.
+> O verdadeiro predador sente o cheiro da morte. Destaca visualmente **cadáveres frescos** nas proximidades através de uma sinalização visual.
 > O nível 5 agora enxerga a fumaça de cadáveres a impressionantes 500 metros de distância (meio quilômetro).
 
 **📈 Progressão — Níveis 1 a 5**
@@ -91,6 +91,22 @@ Se o ícone de estômago está aparecendo (ou o personagem está gemendo de dor)
 
 **👁️ Distância de Detecção**
 
+As distâncias para detectar um "corpo fresco" dependem do nível de habilidade:
+
+Nível 1: 100 m
+
+Nível 2: 200 m
+
+Nível 3: 300 m
+
+Nível 4: 400 m
+
+Nível 5: 500 m
+
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/day.png" alt="Skills Cannibal">
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/dawn.png" alt="Skills Cannibal">
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/night.png" alt="Skills Cannibal">
+  
 ---
 
 ### 6. 🔪 The Butcher — O Açougueiro
