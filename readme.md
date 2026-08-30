@@ -94,6 +94,22 @@ If the stomach icon appears (or the character groans in pain) after eating just 
 
 **👁️ Detection Distance**
 
+"Fresh body" distances depend on skill level:
+
+Level 1: 100m
+
+Level 2: 200m
+
+Level 3: 300m
+
+Level 4: 400m
+
+Level 5: 500m
+
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/day.png" alt="Skills Cannibal">
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/dawn.png" alt="Skills Cannibal">
+<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/night.png" alt="Skills Cannibal">
+
 ---
 
 ### 6. 🔪 The Butcher
