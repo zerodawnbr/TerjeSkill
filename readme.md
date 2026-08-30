@@ -85,7 +85,7 @@ If the stomach icon appears (or the character groans in pain) after eating just 
 
 ### 5. 👃 Scent of Prey
 
-> A true predator smells death. Visually highlights nearby **fresh corpses** through smoke and flies.
+> The true predator scents death. It visually highlights nearby **fresh corpses** with a visual indicator.
 > Level 5 now sees corpse smoke from an impressive 500 meters away (half a kilometer).
 
 **📈 Progression — Levels 1 to 5**
