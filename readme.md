@@ -375,6 +375,18 @@ These restrictions significantly hinder the use of arranged kills between player
 
 ---
 
+> ⚠️ **WARNING: THE CANNIBAL'S CURSE (TREE EXCLUSIVITY)**
+>
+> The **Cannibal** skill tree features an **Absolute Exclusivity** mechanic. Choosing the path of human flesh comes with a price: the loss of your humanity and access to normal knowledge.
+
+### 🩸 How the Lock Works
+
+* **The Initial Sacrifice:** The exact moment a player invests their **first point** into the Cannibal tree, all other skill trees (Hunting, Survival, Athletic, etc.) are instantly **reset and locked**.
+* **The Progression Lock:** As long as the player has any active points in Cannibalism, they are cursed. The server blocks access, preventing the use of benefits and the purchase of new skills in other trees. The player can only evolve and utilize the Cannibal tree.
+* **Redemption (Returning to Normal):** The XP points earned in other trees are not lost forever; the player simply loses the right to use them. To reverse this state, access the interface and **Reset the Cannibal tree**. By resetting Cannibalism to zero, the "curse" is broken, other trees are unlocked, and the player can once again distribute points in them normally.
+
+---
+
 ## Contact
 Want to use it on your server?  
 Contact us via **Direct Message on Discord** or open a **ticket**.  
