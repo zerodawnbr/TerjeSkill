@@ -371,6 +371,29 @@ Essas restrições dificultam significativamente o uso de mortes combinadas entr
 | `Skills.CannibalDevourerWaterPerLevel` | `0.05` | Define o modificador adicional de hidratação ganho por nível da habilidade. |
 
 ---
+> ⚠️ **ATENÇÃO: A MALDIÇÃO DO CANIBAL (EXCLUSIVIDADE DE ÁRVORE)**
+>
+> A árvore de habilidade **Cannibal** possui uma mecânica de **Exclusividade Absoluta**. Escolher o caminho da carne humana tem um preço: a perda da sua humanidade e do acesso aos conhecimentos normais.
+
+### 🩸 Como funciona o Bloqueio
+
+* **O Sacrifício Inicial:** No exato momento em que o jogador investe o seu **primeiro ponto** na árvore Canibal, todas as outras árvores de habilidades (Caça, Sobrevivência, Atleta, etc.) são instantaneamente **reiniciadas e bloqueadas**.
+* **A Trava de Progressão:** Enquanto o jogador possuir qualquer ponto ativo no Canibalismo, ele está amaldiçoado. O servidor bloqueia o acesso, impedindo o uso dos benefícios e a compra de novas habilidades nas outras árvores. O jogador só poderá evoluir e usufruir da árvore Canibal.
+* **A Redenção (Como voltar ao normal):** Os pontos de XP conquistados nas outras árvores não são perdidos para sempre, o jogador apenas perde o direito de usá-las. Para reverter esse estado, basta acessar a interface e **Resetar a árvore Canibal**. Ao zerar o Canibalismo, a "maldição" é quebrada, as outras árvores são desbloqueadas e o jogador pode voltar a distribuir seus pontos nelas normalmente.
+
+---
+
+> ⚠️ **AVISO: A MALDIÇÃO DO CANIBAL (EXCLUSIVIDADE DE ÁRVORE)**
+>
+> A árvore de habilidades **Canibal** apresenta uma mecânica de **Exclusividade Absoluta**. Escolher o caminho da carne humana tem um preço: a perda da sua humanidade e do acesso ao conhecimento comum.
+
+### 🩸 Como Funciona o Bloqueio
+
+* **O Sacrifício Inicial:** No momento exato em que um jogador investe seu **primeiro ponto** na árvore de Canibal, todas as outras árvores de habilidades (Caça, Sobrevivência, Atletismo, etc.) são instantaneamente **resetadas e bloqueadas**.
+* **O Bloqueio de Progressão:** Enquanto o jogador mantiver pontos ativos em Canibalismo, ele estará amaldiçoado. O servidor bloqueia o acesso, impedindo o uso de benefícios e a compra de novas habilidades em outras árvores. O jogador só pode evoluir e utilizar a árvore de Canibal.
+* **Redenção (Retorno ao Normal):** Os pontos de XP ganhos em outras árvores não são perdidos para sempre; o jogador simplesmente perde o direito de usá-los. Para reverter esse estado, acesse a interface e **Resete a árvore de Canibal**. Ao zerar o Canibalismo, a "maldição" é quebrada, as outras árvores são desbloqueadas e o jogador pode voltar a distribuir pontos nelas normalmente.
+  
+---
 
 ## Contato
 Quer usar no seu servidor?  
