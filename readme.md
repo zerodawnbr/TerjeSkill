@@ -1,394 +1,152 @@
-<p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Zero Dawn Banner"> </p>
+<p align="center">
+<img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Zero Dawn Banner">
+</p>
 
-# 💀 Skill Tree: CANNIBAL
+# 🎯 Terje Skills
 
-> *Survive by consuming your own kind.*
+> **Survive. Adapt. Evolve.**
+
+**Terje Skills** expands the survival experience by introducing specialized skill trees that allow survivors to develop their abilities through gameplay.
+
+Every action matters.
+
+The more you practice, fight, hunt, survive, and adapt, the more experienced your character becomes.
+
+Our goal is to create skill trees that feel **meaningful, immersive, and connected to the survival experience**.
+
+---
+
+# 🧠 Current Skill Trees
+
+Terje Skills currently features two unique skill trees:
+
+---
+
+# 💀 CANNIBAL
+
+![Cannibal Skill Tree](https://github.com/zerodawnbr/TerjeSkill/blob/main/images/cannibal.png)
+
+> **You do not hunt to survive. You survive because you hunt.**
+
+The **CANNIBAL** skill tree represents the darkest path a survivor can take.
+
+Those who embrace the consumption of human flesh can develop brutal abilities and predatory instincts that completely change the way they approach survival.
+
+Through progression, the survivor can develop abilities related to:
+
+* 🩸 **Kuru resistance**
+* ❤️ **Health regeneration**
+* 💀 **Melee combat power**
+* 🏃 **Stamina efficiency**
+* 👃 **Corpse detection**
+* 🔪 **Meat harvesting**
+* 🥩 **Nutrition and hydration**
+* ⚡ **Adrenaline**
+* 🤕 **Pain resistance**
+* 👑 **Predatory combat abilities**
+
+The CANNIBAL tree contains **10 skills**, each with **5 levels of progression**, allowing the survivor to gradually evolve into an apex predator.
+
+👉 **[[Read the full CANNIBAL Skill Tree](https://github.com/zerodawnbr/TerjeSkill/wiki/Terje-Skills-%E2%80%90-CANNIBAL-%28Canibal%29)]**
+
+---
+
+# 🎯 MARKSMAN
+
+![Marksman Skill Tree](https://github.com/zerodawnbr/TerjeSkill/blob/main/images/shooter.png)
+
+> **The weapon does not make the marksman. Experience does.**
+
+The **MARKSMAN** skill tree focuses on the mastery of firearms.
+
+Survivors improve their abilities through the practical use of weapons, gradually becoming more accurate, faster, and more efficient in combat.
+
+The skill tree includes abilities related to:
+
+* 🎯 **Basic marksmanship**
+* 👁️ **Steady aim**
+* 🔭 **Precision shooting**
+* ⚡ **Quick reload**
+* 🔄 **Tactical reload**
+* 🕊️ **Fast weapon handling**
+* 🫁 **Controlled breathing**
+* 🔥 **Recoil control**
+* 🎯 **Long-range accuracy**
+* ☠️ **Weapons mastery**
+
+The MARKSMAN tree contains **10 skills**, each with **5 levels of progression**, rewarding players for practicing and mastering firearms through gameplay.
+
+👉 **[[Read the full MARKSMAN Skill Tree](https://github.com/zerodawnbr/TerjeSkill/wiki/Terje-Skills-%E2%80%90-MARKSMAN-%28Atirador%29)]**
+
+---
+
+# 📈 Skill Progression
+
+Every skill tree is designed around progression.
+
+```text
+Experience
+     ↓
+Practice
+     ↓
+Skill Improvement
+     ↓
+Higher Levels
+     ↓
+Advanced Abilities
+     ↓
+Mastery
+```
+
+Your character doesn't simply receive bonuses.
+
+**You earn them.**
+
+---
+
+# 🔥 More Skills Are Coming
+
+The current skill trees are only the beginning.
+
+> **CANNIBAL** and **MARKSMAN** are the first steps in the expansion of Terje Skills.
+
+We are working on **new skill trees, new mechanics, new progression systems, and new ways for survivors to specialize their characters.**
+
+More skills are coming soon.
+
+```text
+💀 CANNIBAL       ✅ AVAILABLE
+🎯 MARKSMAN       ✅ AVAILABLE
+
+🔒 NEW SKILLS     🚧 IN DEVELOPMENT
+🔒 NEW SYSTEMS    🚧 IN DEVELOPMENT
+🔒 NEW MECHANICS  🚧 IN DEVELOPMENT
+```
+
+---
+
+# 🧬 Your Survival. Your Skills. Your Path.
+
+There is no single way to survive.
+
+Become a deadly marksman.
+
+Become a ruthless predator.
+
+Or wait for the next skill tree and discover a completely new way to survive.
+
+> **Train your skills.**
 >
-> The dark path of human flesh brings madness, but rewards predators with unmatched power and brutal instincts.
-
-![Mod Banner](https://github.com/zerodawnbr/TerjeSkill/blob/main/cannibal.png)
-
-<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/skillscannibal.png" alt="Skills Cannibal">
-  
-## 🩸 PERKS
-
-### 1. ➕ Iron Stomach
-
-> Reduces the chance of contracting **Brain Disease (Kuru)** when eating human flesh. At max level, the cannibal develops **total immunity**.
-> Here the character has a 100% chance to repel Kuru.
-
-**📈 Progression — Levels 1 to 5**
-
-`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
-
-**🛡️ Infection Resistance**
-
-### Tips
-
-The Iron Stomach skill grants 100% immunity exclusively against Kuru (Brain Disease). It does not turn the character's stomach into an infinite black hole, nor does it shield against other bacteria.  
-
-If the stomach icon appears (or the character groans in pain) after eating just two pieces of meat, you are running into one of these two problems:
-
-1. **Salmonella (Dirty Hands or Raw Meat):** When you butcher a survivor to farm XP with The Butcher skill, your character's hands get covered in blood. If you eat the meat with bloody hands (without gloves), or if the meat is raw, you instantly contract Salmonella.
-  
-   Salmonella causes severe stomach pain, dehydration, and vomiting. Iron Stomach blocks madness (Kuru), but it does not block Salmonella food poisoning.
-   
-2. **Physical Volume Limit (Full Stomach):** In the DayZ engine, every food and liquid has a "Volume" value. The player's stomach has a physical capacity limit. Meat steaks (especially human meat) are heavy and take up a lot of space in the stomach.
-
-   If you spam the eat action and swallow two whole steaks at once, the stomach volume reaches its maximum limit quickly. The engine displays the stomach icon to warn you that it is full. If you take one more bite, the character will throw up everything due to overeating.
-
-**How to solve this in Gameplay:**
-* **Use Gloves:** Never butcher and eat without wearing gloves (or wash your hands with water immediately after slicing the body).
-* **Roast the Meat:** To avoid Salmonella, human meat must be roasted (unless you create an additional script in the mod to immunize the player against Salmonella as well).
-* **Eat with Pauses:** Eat only one steak. Wait for the food icon (apple) arrows to stop going up and the stomach to empty its load. Only then eat the second one.
-
----
-
-### 2. 🧛 Taste of Blood
-
-> Grants a **health regeneration** rate immediately after consuming human flesh. Fresh blood heals your wounds.
-> At level 5, the healing modifier hits 5.0 (500%). The character will regenerate health almost instantly after eating.
-
-**📈 Progression — Levels 1 to 5**
-
-`0.5` ➜ `1.0` ➜ `2.0` ➜ `3.5` ➜ `5.0`
-
-**❤️ Healing Modifier**
-
----
-
-### 3. 💀 Bloodlust
-
-> Desperation brings fury. Drastically increases **melee combat damage** when your health is critically low.
-> At level 5, the character gains +300% extra melee damage when near death. A single punch can drop a bear.
-
-**📈 Progression — Levels 1 to 5**
-
-`+50%` ➜ `+100%` ➜ `+150%` ➜ `+200%` ➜ `+300%`
-
-**⚔️ Additional Raw Damage**
-
----
-
-### 4. 🧟 Predatory Instinct
-
-> Hunters do not tire easily. Reduces **stamina** consumption for all movement actions.
-> At level 5, the player can sprint across the entire map without spending a single drop of stamina.
-
-**📈 Progression — Levels 1 to 5**
-
-`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
-
-**🏃 Stamina Cost Reduction**
-
----
-
-### 5. 👃 Scent of Prey
-
-> The true predator scents death. It visually highlights nearby **fresh corpses** with a visual indicator.
-> Level 5 now sees corpse smoke from an impressive 500 meters away (half a kilometer).
-
-**📈 Progression — Levels 1 to 5**
-
-`50m` ➜ `100m` ➜ `200m` ➜ `350m` ➜ `500m`
-
-**👁️ Detection Distance**
-
-"Fresh body" distances depend on skill level:
-
-Level 1: 100m
-
-Level 2: 200m
-
-Level 3: 300m
-
-Level 4: 400m
-
-Level 5: 500m
-
-<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/day.png" alt="Skills Cannibal">
-<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/dawn.png" alt="Skills Cannibal">
-<p align="center"> <img src="https://github.com/zerodawnbr/TerjeSkill/blob/main/night.png" alt="Skills Cannibal">
-
----
-
-### 6. 🔪 The Butcher
-
-> Mastery of the blade. Ensures you harvest **more meat** when skinning survivor corpses and severely reduces knife degradation during the process.
-> At level 5, you harvest 5.0 (+500%) meat from a single body. One corpse will fill your backpack with steaks.
-
-**📈 Progression — Levels 1 to 5**
-
-`+50%` ➜ `+100%` ➜ `+200%` ➜ `+350%` ➜ `+500%`
-
-**🥩 Meat Yield**
-
----
-
-### 7. 🥩 Devourer
-
-> The body adapts to the new diet. Drastically multiplies the **Nutrition and Hydration** values extracted from each piece of human meat.
-> Hits an incredible 10.0 at level 5. A single bite of a human steak will fill your food and water bars to the max!
-
-**📈 Progression — Levels 1 to 5**
-
-`2.0x` ➜ `4.0x` ➜ `6.0x` ➜ `8.0x` ➜ `10.0x`
-
-**🍖 Nutritional Status**
-
----
-
-### 8. ⚡ Adrenaline Rush
-
-> The frenzy of the hunt. Grants an immediate burst of **movement speed and stamina recovery** right after taking down a survivor.
-> +100% movement speed (double the normal human speed). You will look like the Flash.
-
-**📈 Progression — Levels 1 to 5**
-
-`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
-
-**⚡ Speed Bonus**
-
----
-
-### 9. 🤕 Pain Resistance
-
-> Madness numbs the body. Considerably reduces **shock damage**, preventing unconsciousness during combat and enemy attacks.
-> At level 5, you have 100% resistance to shock damage. The player will never fall unconscious again from taking a bullet or a punch.
-
-**📈 Progression — Levels 1 to 5**
-
-`20%` ➜ `40%` ➜ `60%` ➜ `80%` ➜ `100%`
-
-**🛡️ Shock Reduction**
-
----
-
-### 10. 👑 Apex Predator
-
-> The ultimate frenzy state. Become a **relentless monster**, receiving massive combat bonuses right after a confirmed kill.
-
-**📈 Progression — Levels 1 to 5**
-
-`50%` ➜ `100%` ➜ `150%` ➜ `200%` ➜ `300%`
-
-**💀 Additional Skill Power**
-
----
-
-## ☠️ BECOME THE PREDATOR
-
-> **You do not hunt to survive.**
->> **You survive because you hunt.** 🩸
-
----
-
-# 💀 How to Earn XP — CANNIBAL
-
-There are **4 exact ways to earn XP** with the current settings of the **CANNIBAL** skill tree.
-
----
-
-## 1. 🩸 Kill Survivors
-
-> **The highest source of XP.**
-
-Getting your hands dirty yields **50 XP per kill**. However, the engine has strict locks to prevent XP *farming* among friends.
-
-### 🎯 Headshot Bonus
-
-If the kill is achieved with a **headshot**, the experience receives a **1.5x** multiplier.
-
-- **Normal XP:** `50 XP`
-- **Headshot:** `50 × 1.5 = 75 XP`
-
-### 📏 Minimum Distance
-
-Per the variable:
-
-`CannibalMinimumSurvivorDistance = 100`
-
-the target must be **at least 100 meters away** from you for the XP to count.
-
-### ⏱️ Victim Cooldown
-
-You cannot kill the same person repeatedly to accumulate XP.
-
-The variable:
-
-`CannibalSameVictimExperienceCooldown = 3600`
-
-requires you to wait **3600 seconds**, equivalent to:
-
-**1 hour**
-
-before earning XP again by killing the same player.
-
-### ⏱️ General Cooldown
-
-There is also an interval of:
-
-`60 seconds`
-
-between any kill for the XP to be validated.
-
----
-
-## 2. 🔪 Butcher Corpses
-
-> **Cleaning up the crime scene also pays off.**
-
-Butchering a human player's corpse using a **knife** grants XP instantly.
-
-The XP amount is defined by the variable:
-
-`CannibalButcherCorpseExpGain`
-
-- **XP per butchered corpse:** `25 XP`
-
----
-
-## 3. 🥩 Consume Human Flesh
-
-> **Our daily bread.**
-
-Every time the character consumes a **piece of processed human meat**, they receive XP.
-
-The XP amount is defined by the variable:
-
-`CannibalConsumeHumanFleshExpGain`
-
-- **XP per consumed piece:** `10 XP`
-
----
-
-## 4. 💀 Eat Directly from the Corpse
-
-> **Extreme barbarism.**
-
-Using the action to eat **raw meat directly from the corpse on the ground** grants additional XP per bite.
-
-The XP amount is defined by the variable:
-
-`CannibalEatCorpseExpGain`
-
-- **XP per bite:** `5 XP`
-
----
-
-# ☠️ Summary
-
-| Action | XP |
-|---|---:|
-| 🩸 Kill survivor | **50 XP** |
-| 🎯 Headshot | **75 XP** |
-| 🔪 Butcher corpse | **25 XP** |
-| 🥩 Consume processed human meat | **10 XP** |
-| 💀 Eat directly from corpse | **5 XP per bite** |
-
----
-
-# 🏆 Fastest Strategy
-
-The fastest way to level up this tree is to combine all XP sources:
-
-1. 🎯 **Hunt players from a long distance**
-2. 🔫 **Secure the Headshot** → `75 XP`
-3. 🔪 **Go to the body and butcher it** → `25 XP`
-4. 🥩 **Consume the harvested meat** → `10 XP per piece`
-5. 💀 **Eat directly from the corpse** → `5 XP per bite`
-
----
-
-## 🛡️ Abuse Protection
-
-The system has specific mechanisms to prevent artificial XP *farming* among friends:
-
-- 📏 **Minimum distance:** `100 meters`
-- ⏱️ **Same victim cooldown:** `3600 seconds`
-- ⏱️ **General cooldown between kills:** `60 seconds`
-- 🎯 **Headshot:** `1.5x` multiplier
-
-These restrictions significantly hinder the use of arranged kills between players to artificially accelerate progression.
-
----
-
-> 🩸 **The system was developed to reward true terror.**
+> **Adapt to the world.**
 >
-> **Kill. Butcher. Devour. Evolve.**
+> **Become something more than a survivor.**
 
 ---
 
-# skills.cfg File
+# ☠️ TERJE SKILLS
 
-## 🩸 Cannibal Experience
+### **Survive. Adapt. Evolve.**
 
-| Parameter | Value | Description |
-|---|---:|---|
-| `Skills.CannibalConsumeHumanFleshExpGain` | `10` | Sets experience gained when consuming human flesh. |
-| `Skills.CannibalKillSurvivorExpGain` | `50` | Sets experience gained when killing a survivor. |
-| `Skills.CannibalButcherCorpseExpGain` | `25` | Sets experience gained when butchering a human corpse. |
-| `Skills.CannibalEatCorpseExpGain` | `5` | Sets additional experience gained when consuming flesh from a corpse. |
-| `Skills.CannibalHeadshotKillExpModifier` | `1.5` | Sets experience multiplier when killing a survivor with a headshot. |
-| `Skills.CannibalKillStreakExpModifier` | `1` | Sets experience multiplier applied to consecutive kills. |
+**More skill trees are coming soon.**
 
----
-
-## ⚖️ Cannibal Balance
-
-| Parameter | Value | Description |
-|---|---:|---|
-| `Skills.CannibalTasteOfBloodDuration` | `30` | Sets duration of the **Taste of Blood** effect. |
-| `Skills.CannibalTasteOfBloodCooldown` | `60` | Sets cooldown for the **Taste of Blood** effect. |
-| `Skills.CannibalBloodlustHealthThreshold` | `0.5` | Sets health percentage below which **Bloodlust** becomes active. |
-| `Skills.CannibalBloodlustMinimumHealth` | `0.1` | Sets minimum health percentage used to calculate **Bloodlust**. |
-| `Skills.CannibalScentOfPreyCorpseLifetime` | `1800` | Sets how long a corpse remains detectable in seconds. |
-| `Skills.CannibalButcherSkinningTime` | `30` | Sets time required to butcher a human corpse. |
-| `Skills.CannibalButcherKnifeDamage` | `50` | Sets absolute damage applied to a knife when butchering. |
-| `Skills.CannibalAdrenalineRushDuration` | `30` | Sets duration of the **Adrenaline Rush** effect. |
-| `Skills.CannibalAdrenalineRushStaminaModifier` | `0.25` | Sets stamina recovery bonus for **Adrenaline Rush**. |
-| `Skills.CannibalAdrenalineRushCooldown` | `60` | Sets cooldown before **Adrenaline Rush** can trigger again. |
-| `Skills.CannibalAdrenalineRushHealthRegeneration` | `0` | Sets health regeneration provided by **Adrenaline Rush**. |
-| `Skills.CannibalAdrenalineRushMovementModifier` | `0.1` | Sets movement speed bonus provided by **Adrenaline Rush**. |
-| `Skills.CannibalPainDamageModifier` | `1` | Sets damage multiplier applied to pain-related effects. |
-| `Skills.CannibalApexPredatorDuration` | `90` | Sets duration of **Apex Predator** effect. |
-| `Skills.CannibalApexPredatorStaminaModifier` | `0.65` | Sets stamina recovery bonus for **Apex Predator**. |
-| `Skills.CannibalApexPredatorCooldown` | `45` | Sets cooldown before **Apex Predator** can trigger again. |
-| `Skills.CannibalApexPredatorHealthRegen` | `2.5` | Sets health regeneration provided by **Apex Predator**. |
-| `Skills.CannibalApexPredatorMovementMod` | `0.2` | Sets movement speed bonus provided by **Apex Predator**. |
-| `Skills.CannibalApexPredatorDamageMod` | `0.5` | Sets damage bonus provided by **Apex Predator**. |
-| `Skills.CannibalMinimumSurvivorDistance` | `100` | Sets minimum distance required for a survivor kill to generate experience. |
-| `Skills.CannibalKillExperienceCooldown` | `60` | Sets minimum time between survivor kills to generate experience. |
-| `Skills.CannibalSameVictimExperienceCooldown` | `3600` | Sets cooldown before the same victim can generate experience again. |
-
----
-
-## 🥩 Cannibal Devourer
-
-| Parameter | Value | Description |
-|---|---:|---|
-| `Skills.CannibalDevourerEnergyModifier` | `1.5` | Sets the energy multiplier applied when consuming human flesh. |
-| `Skills.CannibalDevourerWaterModifier` | `1.5` | Sets the hydration multiplier applied when consuming human flesh. |
-| `Skills.CannibalDevourerHealthModifier` | `1` | Sets the health restoration multiplier applied when consuming human flesh. |
-| `Skills.CannibalDevourerEnergyPerLevel` | `0.05` | Sets the additional energy modifier gained per skill level. |
-| `Skills.CannibalDevourerWaterPerLevel` | `0.05` | Sets the additional hydration modifier gained per skill level. |
-
----
-
-> ⚠️ **WARNING: THE CANNIBAL'S CURSE (TREE EXCLUSIVITY)**
->
-> The **Cannibal** skill tree features an **Absolute Exclusivity** mechanic. Choosing the path of human flesh comes with a price: the loss of your humanity and access to normal knowledge.
-
-### 🩸 How the Lock Works
-
-* **The Initial Sacrifice:** The exact moment a player invests their **first point** into the Cannibal tree, all other skill trees (Hunting, Survival, Athletic, etc.) are instantly **reset and locked**.
-* **The Progression Lock:** As long as the player has any active points in Cannibalism, they are cursed. The server blocks access, preventing the use of benefits and the purchase of new skills in other trees. The player can only evolve and utilize the Cannibal tree.
-* **Redemption (Returning to Normal):** The XP points earned in other trees are not lost forever; the player simply loses the right to use them. To reverse this state, access the interface and **Reset the Cannibal tree**. By resetting Cannibalism to zero, the "curse" is broken, other trees are unlocked, and the player can once again distribute points in them normally.
-
----
-
-## Contact
-Want to use it on your server?  
-Contact us via **Direct Message on Discord** or open a **ticket**.  
-
-[Visit our Discord](https://discord.gg/R4eNUDPArW)
+Stay tuned for the next evolution of **Terje Skills**.
