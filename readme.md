@@ -47,7 +47,7 @@ Through progression, the survivor can develop abilities related to:
 
 The CANNIBAL tree contains **10 skills**, each with **5 levels of progression**, allowing the survivor to gradually evolve into an apex predator.
 
-👉 **[[Read the full CANNIBAL Skill Tree](https://github.com/zerodawnbr/TerjeSkill/wiki/Terje-Skills-%E2%80%90-CANNIBAL-%28Canibal%29)]**
+👉 **[[Read the full CANNIBAL Skill Tree](https://github.com/zerodawnbr/TerjeSkill/wiki/Terje-Skills-%E2%80%90-CANNIBAL)]**
 
 ---
 
@@ -76,7 +76,7 @@ The skill tree includes abilities related to:
 
 The MARKSMAN tree contains **10 skills**, each with **5 levels of progression**, rewarding players for practicing and mastering firearms through gameplay.
 
-👉 **[[Read the full MARKSMAN Skill Tree](https://github.com/zerodawnbr/TerjeSkill/wiki/Terje-Skills-%E2%80%90-MARKSMAN-%28Atirador%29)]**
+👉 **[[Read the full MARKSMAN Skill Tree](https://github.com/zerodawnbr/TerjeSkill/wiki/Terje-Skills-%E2%80%90-MARKSMAN)]**
 
 ---
 
